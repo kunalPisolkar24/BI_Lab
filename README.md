@@ -6,8 +6,6 @@
 
 Welcome to the repository for the **Business Intelligence** laboratory course, part of the Fourth Year Computer Engineering curriculum (2019 Course) at Savitribai Phule Pune University. This repository contains practical implementations and resources designed to help you understand the concepts of Business Intelligence, data warehousing, data preprocessing, and the application of machine learning for business needs.
 
-*(Note: The provided syllabus mentions course code 410255 and title "Deep Learning" in one section, but the objectives, outcomes, and practicals clearly point to Business Intelligence. This README assumes the course is focused on Business Intelligence as per the detailed content and uses "Laboratory Practice VI (410256)" as the companion course.)*
-
 🏛️ **Course Information:**
 
 | Feature | Description |
